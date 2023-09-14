@@ -1,0 +1,18 @@
+/***Property selecotr***/
+h1 {
+    color: blue;
+    font-size: 100px;
+}
+
+img:hover {
+    background-color: blueviolet;
+}
+
+/****Class Selctor***/
+.bacon {
+    background-color: aquamarine;
+}
+
+.laptop {
+    background-color: green;
+}
